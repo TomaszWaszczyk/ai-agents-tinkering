@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/TomaszWaszczyk/ai-agents-tinkering/issues"
   },
-  "homepage": "https://github.com/TomaszWaszczyk/ai-agents-tinkering#readme"
+  "homepage": "https://github.com/TomaszWaszczyk/ai-agents-tinkering#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
 }
